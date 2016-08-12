@@ -11,7 +11,7 @@ Hamster consists of three parts.
 
 The frontend can be found here [hamster_ember](https://github.com/zhuhaow/hamster_ember).
 
-This is just a toy code but it supports:
+These are just toy codes but hamster supports:
 
 * Parse and interact with web page to login and find resources.
 * Download resources and upload them to remote disk drive.
