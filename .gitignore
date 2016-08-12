@@ -131,3 +131,4 @@ node_modules
 npm-debug.log
 
 .byebug_history
+data/
